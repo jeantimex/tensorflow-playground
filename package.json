@@ -1,0 +1,20 @@
+{
+  "name": "tensorflow-playground",
+  "version": "1.0.0",
+  "description": "Tensorflow Playground",
+  "main": "index.js",
+  "scripts": {
+    "dev": "parcel ./src/index.html --open",
+    "build": "parcel build ./src/index.html"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@tensorflow/tfjs": "^2.0.1",
+    "p5": "^1.1.4"
+  },
+  "devDependencies": {
+    "parcel-bundler": "^1.12.4"
+  }
+}
