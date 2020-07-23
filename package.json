@@ -9,7 +9,7 @@
   },
   "keywords": [],
   "author": "",
-  "license": "ISC",
+  "license": "MIT",
   "dependencies": {
     "@tensorflow/tfjs": "^2.0.1",
     "p5": "^1.1.4"
