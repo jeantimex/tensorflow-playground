@@ -4,8 +4,8 @@
   "description": "Tensorflow Playground",
   "main": "index.js",
   "scripts": {
-    "dev": "parcel ./src/index.html --open",
-    "build": "parcel build ./src/index.html"
+    "dev": "parcel ./src/*.html --open",
+    "build": "parcel build ./src/*.html"
   },
   "keywords": [],
   "author": "",
