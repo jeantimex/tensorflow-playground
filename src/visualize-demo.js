@@ -1,4 +1,5 @@
 import * as tfvis from '@tensorflow/tfjs-vis';
+import './visualize-demo.scss';
 
 const apples = Array(14)
   .fill(0)
