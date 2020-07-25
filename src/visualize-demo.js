@@ -19,7 +19,6 @@ const container = document.getElementById('scatter-cont');
 tfvis.render.scatterplot(container, data, {
   xLabel: 'day',
   yLabel: 'sales',
-  height: 450,
   zoomToFit: true,
   fontSize: 16,
 });
